@@ -55,7 +55,7 @@ const Hero: React.FC = () => {
 
           <p className="text-lg md:text-xl text-gray-600 dark:text-gray-400 mb-12 max-w-2xl mx-auto leading-relaxed">
             Passionate about creating innovative solutions through code. 
-            Experienced in web development with modern technologies and programming languages.
+            Experienced in web development with modern technologies and programming  languages.
           </p>
 
           <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-6 mb-12">
